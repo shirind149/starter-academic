@@ -1,17 +1,16 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Shirin Deshpande
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
-
+role: Product Manager
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Poshmark
+  url: https://www.poshmark.com/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -70,6 +69,6 @@ email: ""
 highlight_name: false
 ---
 
-Shirin Deshpande is a Product Manager at Poshmark. She has a decade of experience in e-commerce and retail. 
+Shirin Deshpande is a Product Manager at Poshmark. She has a decade of experience in e-commerce and retail.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
